@@ -25,4 +25,4 @@ filter_method_fisher.py — core implementation (class feature_selector) for:
     
 		(See source for details.) 
 
-sfs_NSSI_filter.ipynb — example notebook to reproduce analyses/figures from feature tables.
+sfs_NSSI_filter.ipynb — example notebook to reproduce analyses from feature tables.
